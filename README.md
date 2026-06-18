@@ -8,13 +8,9 @@ Like bikes, skis, & technology. Drink enough caffeine to kill a horse. Been a fo
 
 **you can just do things.**
 
-I tend to work where the market is new, the workflow is messy, and the tools are missing.
-
-Past signal: ADYOULIKE -> OpenWeb ($100M), Criteo, M3, digital icon.
+Past: M3 [commerce media], Openweb [via adyoulike acquisition] [ad tech], Criteo [ad/mar tech]
 
 ## Work
-
-Permanent Beta Labs is the company behind:
 
 - [Standwell](https://usestandwell.com/) - compliant sampling and review programs for marketplace and DTC brands.
 - [Landfall](https://trylandfall.com/) - AI implementation and operational infrastructure.
