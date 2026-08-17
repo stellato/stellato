@@ -3,6 +3,7 @@
 [![X @gstellato25](https://img.shields.io/badge/X-@gstellato25-000000?style=flat&logo=x&logoColor=white)](https://x.com/gstellato25)
 [![LinkedIn gstellato](https://img.shields.io/badge/LinkedIn-gstellato-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gstellato/)
 [![gregstellato.com](https://img.shields.io/badge/web-gregstellato.com-16785A?style=flat)](https://gregstellato.com/)
+[![Strava Greg Stellato](https://img.shields.io/badge/Strava-Greg%20Stellato-FC4C02?style=flat&logo=strava&logoColor=white)](https://www.strava.com/athletes/3714121)
 
 Like bikes, skis, & technology. Drink enough caffeine to kill a horse. Been a founder, first hire, and a number. Back to building.
 
