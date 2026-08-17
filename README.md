@@ -26,16 +26,17 @@ Some things should be easier. I use [CLI Printing Press](https://github.com/mvan
 
 Published in the [Printing Press Library](https://github.com/mvanhorn/printing-press-library):
 
-- Devices & health: [Withings](https://github.com/mvanhorn/printing-press-library/tree/main/library/devices/withings)
+- Devices & health: [Withings](https://github.com/mvanhorn/printing-press-library/tree/main/library/devices/withings) - sync and analyze health, activity, sleep, weight, and body-composition data.
 - Devices & sports: [Wahoo](https://github.com/mvanhorn/printing-press-library/tree/main/library/devices/wahoo) - sync and analyze cycling workouts, routes, training plans, power zones, and fitness trends.
-- Marketing: [Google Ad Manager](https://github.com/mvanhorn/printing-press-library/tree/main/library/marketing/google-ad-manager)
+- Marketing: [Google Ad Manager](https://github.com/mvanhorn/printing-press-library/tree/main/library/marketing/google-ad-manager) - report, search, and manage publisher ad inventory from the terminal.
 - Travel & sports: [Ikon Pass](https://github.com/mvanhorn/printing-press-library/tree/main/library/travel/ikon) - check ski resort availability, passes, vouchers, reservations, and usage history.
 
 In review:
 
-- Marketing: [Google Tag Manager](https://github.com/mvanhorn/printing-press-library/pull/1272), [Equativ Maestro](https://github.com/mvanhorn/printing-press-library/pull/1270)
-- Travel: [Ride with GPS](https://github.com/mvanhorn/printing-press-library/pull/1261)
-- Devices: [SRAM AXS](https://github.com/mvanhorn/printing-press-library/pull/1180)
+- Marketing: [Google Tag Manager](https://github.com/mvanhorn/printing-press-library/pull/1272) - mirror, audit, diff, and query GTM containers safely from the terminal.
+- Marketing: [Equativ Maestro](https://github.com/mvanhorn/printing-press-library/pull/1270) - manage deals, forecast available inventory, and analyze reporting and pacing.
+- Travel & sports: [Ride with GPS](https://github.com/mvanhorn/printing-press-library/pull/1261) - export routes and rides, track gear mileage, and analyze cycling activity offline.
+- Devices & sports: [SRAM AXS](https://github.com/mvanhorn/printing-press-library/pull/1180) - manage bikes, components, registrations, and rides while analyzing component usage.
 
 ## Products
 
