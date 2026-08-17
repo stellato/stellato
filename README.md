@@ -26,14 +26,16 @@ Some things should be easier. I use [CLI Printing Press](https://github.com/mvan
 
 Published in the [Printing Press Library](https://github.com/mvanhorn/printing-press-library):
 
-- Devices: [Withings](https://github.com/mvanhorn/printing-press-library/tree/main/library/devices/withings)
+- Devices & health: [Withings](https://github.com/mvanhorn/printing-press-library/tree/main/library/devices/withings)
+- Devices & sports: [Wahoo](https://github.com/mvanhorn/printing-press-library/tree/main/library/devices/wahoo) - sync and analyze cycling workouts, routes, training plans, power zones, and fitness trends.
 - Marketing: [Google Ad Manager](https://github.com/mvanhorn/printing-press-library/tree/main/library/marketing/google-ad-manager)
+- Travel & sports: [Ikon Pass](https://github.com/mvanhorn/printing-press-library/tree/main/library/travel/ikon) - check ski resort availability, passes, vouchers, reservations, and usage history.
 
 In review:
 
 - Marketing: [Google Tag Manager](https://github.com/mvanhorn/printing-press-library/pull/1272), [Equativ Maestro](https://github.com/mvanhorn/printing-press-library/pull/1270)
-- Travel: [Ride with GPS](https://github.com/mvanhorn/printing-press-library/pull/1261), [Ikon Pass](https://github.com/mvanhorn/printing-press-library/pull/1179)
-- Devices: [Wahoo](https://github.com/mvanhorn/printing-press-library/pull/1174), [SRAM AXS](https://github.com/mvanhorn/printing-press-library/pull/1180)
+- Travel: [Ride with GPS](https://github.com/mvanhorn/printing-press-library/pull/1261)
+- Devices: [SRAM AXS](https://github.com/mvanhorn/printing-press-library/pull/1180)
 
 ## Fun projects
 
