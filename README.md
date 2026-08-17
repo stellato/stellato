@@ -9,7 +9,7 @@ Like bikes, skis, & technology. Drink enough caffeine to kill a horse. Been a fo
 
 **you can just do things.**
 
-**Past**: M3 [commerce media], Openweb [via adyoulike acquisition] [ad tech], Criteo [ad/mar tech]
+**Past:** Co-founded M3. [First U.S. hire at Adyoulike](https://www.linkedin.com/feed/update/urn:li:activity:6919731443527036929/), where I built and ran the U.S. business, led global supply, and helped take the company from a native ad product to a full SSP and a $100M acquisition by OpenWeb. Earlier, I helped build Criteo's SSP and launch its first native ad; joined the founding team at Crowdly; and [worked my way from unpaid intern at LocaModa](https://www.linkedin.com/feed/update/urn:li:activity:6878852892229455873/) into leading sales, product, and business development after landing the campaign that paid for my hire. Started in derivatives at State Street.
 
 ## Work
 
