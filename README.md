@@ -40,6 +40,7 @@ In review:
 - Marketing: [Equativ Maestro](https://github.com/mvanhorn/printing-press-library/pull/1270) - manage deals, forecast available inventory, and analyze reporting and pacing.
 - Travel & sports: [Ride with GPS](https://github.com/mvanhorn/printing-press-library/pull/1261) - export routes and rides, track gear mileage, and analyze cycling activity offline.
 - Devices & sports: [SRAM AXS](https://github.com/mvanhorn/printing-press-library/pull/1180) - manage bikes, components, registrations, and rides while analyzing component usage.
+- Productivity & sports: [Sprocket Sports](https://github.com/mvanhorn/printing-press-library/pull/1282#issuecomment-5235172768) - merge youth-soccer schedules across players, flag conflicts, export calendars, and track dues.
 
 ## Products
 
