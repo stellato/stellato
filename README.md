@@ -37,7 +37,7 @@ In review:
 - Travel: [Ride with GPS](https://github.com/mvanhorn/printing-press-library/pull/1261)
 - Devices: [SRAM AXS](https://github.com/mvanhorn/printing-press-library/pull/1180)
 
-## Fun projects
+## Products
 
-- [Curious Minute.](https://curiousminute.com/) - one question, one fact, one minute.
-- [the manual by FSCC](https://fieldscout.cc/the-manual/) - structured cycling knowledge, reference, and tools.
+- [Curious Minute](https://curiousminute.com/) - a daily one-minute trivia game: one question, one fact, one minute.
+- [the manual by FSCC](https://fieldscout.cc/the-manual/) - reference-grade cycling guidance, FAQs, glossary entries, and practical tools for riders who want direct answers they can trust.
