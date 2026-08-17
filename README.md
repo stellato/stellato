@@ -40,5 +40,5 @@ In review:
 
 ## Products
 
-- [Curious Minute](https://curiousminute.com/) - a daily one-minute trivia game: one question, one fact, one minute.
+- [Curious Minute](https://curiousminute.com/) - a daily curiosity habit: one question, one answer, one minute.
 - [the manual by FSCC](https://fieldscout.cc/the-manual/) - reference-grade cycling guidance, FAQs, glossary entries, and practical tools for riders who want direct answers they can trust.
