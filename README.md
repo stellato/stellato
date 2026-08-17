@@ -44,4 +44,4 @@ In review:
 ## Products
 
 - **Curious Minute** - a daily curiosity habit: one question, one answer, one minute. [Open today's question →](https://curiousminute.com/)
-- **the manual by FSCC** - reference-grade guidance, FAQs, glossary entries, and practical tools for riders. [Find a clear cycling answer →](https://fieldscout.cc/the-manual/)
+- **[the manual by FSCC](https://fieldscout.cc/the-manual/)** - reference-grade cycling answers and practical tools. [Find a local bike shop →](https://fieldscout.cc/the-manual/tools/local-bike-shops-finder/) · [Calculate bike tire pressure →](https://fieldscout.cc/the-manual/tools/tire-pressure-calculator/)
