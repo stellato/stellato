@@ -43,5 +43,5 @@ In review:
 
 ## Products
 
-- [Curious Minute](https://curiousminute.com/) - a daily curiosity habit: one question, one answer, one minute.
-- [the manual by FSCC](https://fieldscout.cc/the-manual/) - reference-grade cycling guidance, FAQs, glossary entries, and practical tools for riders who want direct answers they can trust.
+- **Curious Minute** - a daily curiosity habit: one question, one answer, one minute. [Open today's question →](https://curiousminute.com/)
+- **the manual by FSCC** - reference-grade guidance, FAQs, glossary entries, and practical tools for riders. [Find a clear cycling answer →](https://fieldscout.cc/the-manual/)
